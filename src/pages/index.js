@@ -110,7 +110,7 @@ export default function index() {
         <a
           className="underline"
           target="_blank"
-          href="https://github.com/jjlittle20/tailwindtocss"
+          href="https://jjlittle20.github.io/tailwindtocss/"
         >
           Github!
         </a>
